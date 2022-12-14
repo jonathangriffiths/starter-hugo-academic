@@ -4,11 +4,11 @@ feature:
 - description: ''
   icon: chart-bar
   icon_pack: fas
-  name: Statistics/machine learning
+  name: Statistics & machine learning
 - description: ''
   icon: dna
   icon_pack: fas
-  name: Genomics
+  name: Genomics & human genetics
 - description: ''
   icon: project-diagram
   icon_pack: fas
@@ -20,7 +20,7 @@ feature:
 - description: ''
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R aficionado
 - description: ''
   icon: coffee
   icon_pack: fas

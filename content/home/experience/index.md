@@ -6,9 +6,9 @@ experience:
   company_url: https://altoslabs.com/
   date_end: ''
   date_start: '2022-07-11'
-  description: "  I am working with Thore Graepel in the AI/ML team establishing cross-Altos\
-    \ initiatives where we can maximise the impact and benefits of AI and ML for the\
-    \ company mission.\n  "
+  description: "  I am working with Thore Graepel in the AI/ML team establishing the use\
+    \ of human genetic data in Altos to connect promising _in vitro_ results with\
+    \ actual human disease indications.\n  "
   location: Cambridge, UK
   title: Computational Biologist
 - company: Genomics plc

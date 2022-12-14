@@ -13,7 +13,7 @@ design:
   view: 2
 headless: true
 subtitle: ''
-title: Software and dataset portfolio
+title: Academic software portfolio
 weight: 65
 widget: portfolio
 ---

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mouse gastrulation website"
-summary: "A Shiny app designed to allow quick review of the mouse gastrulation atlas dataset without bioinformatic expertise."
+summary: "A Shiny app designed to allow quick review of the mouse gastrulation atlas dataset without bioinformatic expertise. The codebase has been used as a framework for other visualisation tools from the Marioni Lab in subsequent years."
 authors: []
 tags: []
 categories: []

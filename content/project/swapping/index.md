@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Barcode swapping"
-summary: "_swappedDrops_ is a method to correct for artefacts from barcode swapping in 10X single-cell RNA sequencing data. Written with Aaron Lun in the _DropletUtils_ package."
+summary: "_swappedDrops_ is a method to correct for artefacts from barcode swapping in 10X single-cell RNA sequencing data. Written with Aaron Lun in the _DropletUtils_ package, which I now maintain."
 authors: []
 tags: []
 categories: []

@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Functional genomics
+- Human genetics
 - Machine learning
 - Single-cell data & methods
 
@@ -78,6 +79,7 @@ solutions positively impact human health.
 I have extensive experience across biology, genomics, statistics, and machine learning domains, both in academic and commercial settings.
 
 Currently, I am working at Altos Labs in the AI/ML team, identifying and exploiting research opportunites that will benefit the entire organisation.
+I am particularly focused on using human genetic data to translate results from model systems into actual human contexts.
 
 Previously, I worked in the therapeutics arm of Genomics plc.
 I applied my integrative and diverse set of skills to understand biological processes from a broad range of modern, high-throughput datasets to identify opportunities for therapeutic intervention, and guided the design of experiments to validate these stories.
