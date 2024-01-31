@@ -74,7 +74,7 @@ user_groups:
 highlight_name: true
 ---
 
-I am a computational scientist motivated by solving challenging problems, whose solutions positively impact human health.
+I am a computational scientist motivated by solving challenging problems to positively impact human health.
 I have extensive experience across biology, genomics, statistics, and machine learning domains, both in academic and commercial settings.
 
 Currently, I am working at Altos Labs in the BioML team, working across genetics, -omics, and machine learning/AI to build powerful models of how the genome functions.
