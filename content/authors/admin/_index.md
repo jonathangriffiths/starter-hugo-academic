@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senoir Scientist, Computational
+role: Senior Scientist, Computational
 
 # Organizations/Affiliations
 organizations:
