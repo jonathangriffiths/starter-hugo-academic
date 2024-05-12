@@ -4,7 +4,7 @@ advanced:
   css_class: ''
   css_style: ''
 content:
-  count: 5
+  count: 7
   filters:
     author: ''
     category: ''

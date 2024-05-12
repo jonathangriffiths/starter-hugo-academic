@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "MGD package"
+title: "MouseGastrulationData"
 summary: "_MouseGastrulationData_ is a Bioconductor package that dramatically simplifies access to the mouse gastrulation atlas, embryo chimaera, and other related datasets."
 authors: []
 tags: []
