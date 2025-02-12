@@ -79,13 +79,13 @@ highlight_name: true
 ---
 
 I am a computational scientist motivated by solving challenging problems to positively impact human health.
-I have developed deep expertise in biology, functional genomics, human genetics, and machine learning, and I like to work between these disciplines to make the biggest impact possible.
+I have developed deep expertise in biology, functional genomics, human genetics, and machine learning, and I like to work between these disciplines to affect the greatest possible impact.
 
-Currently, I am working at Altos Labs in the BioML team, developing foundation models of DNA sequence.
+Currently, I am working at Altos Labs in its Institute of Computation, leading a machine learning project developing large language models for epigenetics data.
 
-Previously, I worked in the therapeutics arm of Genomics plc.
-This is where I learned about human genetics, and I use dmy interdisciplinary skills to identify novel opportunities for therapeutic intervention, and guided the design of experiments to validate these hypothesis.
+During my PhD, I pioneered the first analyses of large-scale single-cell RNA-sequencing datasets.
+This was funded by Wellcome, and I worked at the University of Cambridge with John Marioni (now SVP, Head of Computational Sciences at Genentech).
 
-During my PhD, I worked on methodology for analysing the first large-scale, droplet-based single-cell RNA-sequencing datasets.
-I applied these methods by leasing the analysis of a landmark scRNA-seq dataset of mouse embryonic development. 
-My PhD was funded by Wellcome, in the Marioni lab.
+Subsequently, I worked in the therapeutics arm of Genomics plc.
+I developed deep expertise in the use of human genetic data -- and how to best combine it with functional genomics -- to identify novel opportunities for therapeutic intervention.
+I identified novel targets, developed complete therapeutic stories, and worked with CROs to validate them.

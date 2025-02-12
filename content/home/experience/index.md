@@ -6,10 +6,9 @@ experience:
   company_url: https://altoslabs.com/
   date_end: ''
   date_start: '2024-05-01'
-  description: "  I am developing foundation models of DNA sequence, which allows \
-  \ me to bring together my genetics and functional genomics background \
-  \ with large-scale AI/machine learning tools to identify mechanisms of gene expression \
-  \ and epigenetic regulation. \n  "
+  description: "  I am leading a project developing large language models for epigenetics data, \
+  \ bringing together a team of machine learning and subject matter experts to deliver novel insights \
+  \ for target identification to reverse disease. \n  "
   location: Cambridge, UK
   title: Senior Scientist, Computational
 - company: Altos Labs
@@ -17,7 +16,7 @@ experience:
   date_end: '2024-04-30'
   date_start: '2022-07-11'
   description: "  I worked to set up Altos' efforts in the human genetics \
-    \ space, combining these data with diverse -omics, and large-scale machine learning \
+    \ space, combining these data with diverse -omics, and large-scale machine learning efforts \
     \ in Altos to help qualify disease-reversing therapeutic targets.\n  "
   location: Cambridge, UK
   title: Computational Biologist
@@ -26,7 +25,7 @@ experience:
   date_end: '2022-06-09'
   date_start: '2021-05-01'
   description: "  In addition to further developing my target-focused work, I: worked\
-    \ closely with experimental collaborators for target validation; benchmarked and\
+    \ closely with experimental CROs for target validation; benchmarked and\
     \ improved internal genetic association tools; establish substantial expertise\
     \ in our disease area (including individual-level analyses and evaluation of the\
     \ therapeutic landscape); and identified and resolved various other research questions\
