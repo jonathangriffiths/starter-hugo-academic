@@ -49,9 +49,10 @@ experience:
   company_url: https://www.cruk.cam.ac.uk/research-groups/marioni-group
   date_end: '2019-09-01'
   date_start: '2015-09-01'
-  description: "  I led analysis on a landmark atlas of mouse embryonic development\
+  description: "  I led analysis on a landmark atlas of mouse embryonic development \ 
+    \ (which was among the first datasets generated on such a large scale)\
     \ and subsequently generated gene-knockout chimaeric embryos.\n  In addition,\
-    \ I developed several tools for analysis of single-cell RNA-sequencing data, including\
+    \ I developed several tools for technical analysis of single-cell RNA-sequencing data, including\
     \ estimation of ploidy and removal of barcode-swapping sequencing artefacts.\n\
     \  "
   location: University of Cambridge

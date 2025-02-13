@@ -2,17 +2,17 @@
 active: true
 feature:
 - description: ''
+  icon: project-diagram
+  icon_pack: fas
+  name: Machine learning/AI
+- description: ''
   icon: chart-bar
   icon_pack: fas
-  name: Statistics & machine learning
+  name: Excellent scientific communicator
 - description: ''
   icon: dna
   icon_pack: fas
   name: Genomics & human genetics
-- description: ''
-  icon: project-diagram
-  icon_pack: fas
-  name: Single-cell methods
 - description: ''
   icon: open-access
   icon_pack: ai
